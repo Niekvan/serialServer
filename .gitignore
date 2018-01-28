@@ -1,5 +1,6 @@
-# dependencies
-node_modules
+# original files
+*.js
+*.json
 
 # logs
 npm-debug.log
