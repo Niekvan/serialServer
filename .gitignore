@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # original files
 *.js
 *.json
+=======
+
+>>>>>>> 83d1a66eefa1f5ed83fcae0ef55d28fc0aaff6ec
 
 # logs
 npm-debug.log
